@@ -16,4 +16,12 @@
  @import 'bootstrap';
  @import 'bootstrap-sass';
 
- 
+ .top{
+   position: relative;
+   margin-top: 10px;
+ }
+
+ .padding{
+   position: relative;
+   padding: 10px;
+ }
